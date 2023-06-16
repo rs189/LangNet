@@ -1,0 +1,15 @@
+customtkinter
+mttkinter
+pywin32
+
+SpeechRecognition 
+pyaudio
+sounddevice
+
+numpy
+openai-whisper
+
+cuda-python
+#nvidia-cuda-runtime-cu11
+#nvidia-cudnn-cu11
+#--extra-index-url https://pypi.ngc.nvidia.com
