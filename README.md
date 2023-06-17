@@ -1,6 +1,6 @@
 # 🌐 LangNet
 
-LangNet is a utility powered by OpenAI Whisper and DeepL. It incorporates speech recognition, as well as an optional translation feature, allowing it to recognize speech in one language and translate it to another language in real-time.
+LangNet is a utility powered by OpenAI Whisper and DeepL. It incorporates speech recognition and an optional translation feature, allowing it to recognize speech in one language and translate it to another in real-time.
 
 ## Requirements
 
