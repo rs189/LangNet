@@ -7,7 +7,7 @@ LangNet is a utility powered by OpenAI Whisper and DeepL. It incorporates speech
 - Python 3.10
 - ffmpeg
 
-Additionally you have to install dependencies for Python from the requirements.txt file, you can do so by running.
+Additionally, you have to install dependencies for Python from the requirements.txt file, you can do so by running.
 
 ```
 pip install -r requirements.txt
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 To use LangNet simply launch either run.bat or run_bin.bat if you have downloaded the portable version, alternatively, you can manually run the app.py python file.
 
-If you wish to use the optional translation feature, you can choose to opt-in to use either the built-in Whisper translation method which is limited to English only and may not be very accurate, or you can choose DeepL instead. To use DeepL, you will need to obtain an API key from https://www.deepl.com/pro-api?cta=header-pro-api/.
+If you wish to use the optional translation feature, you can choose to opt-in to use either the built-in Whisper translation method which is limited to English only and may not be very accurate, or you can choose DeepL instead. To use DeepL, you must obtain an API key from https://www.deepl.com/pro-api?cta=header-pro-api/.
 
 If you wish to transcribe and translate audio that is coming from an audio output instead of an audio input you can use a virtual audio mixer such as [Voicemeeter](https://vb-audio.com/Voicemeeter/) to route audio into a virtual microphone.
 
